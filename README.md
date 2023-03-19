@@ -31,3 +31,14 @@ database	Rfam
 Для соединения с БД можно использовать:
 
 mysql --user rfamro --host mysql-rfam-public.ebi.ac.uk --port 4497 --database Rfam
+
+Сервис Jenkins:
+http://158.160.14.130:8080/
+
+Результат работы и настройки pipeline:
+- http://joxi.ru/Q2KPVvjTgXZYyA
+- http://joxi.ru/zANPyvQTwx3e0m
+- http://joxi.ru/12MPBvVT8XRZ9m
+- http://joxi.ru/v29q4V7sjQB8o2
+- http://joxi.ru/D2PP4v6TW1nGB2
+- http://joxi.ru/l2ZP1p3TVkqpQr
